@@ -20,4 +20,4 @@ Skills: PYTHON / C++ / C# / JAVA / SQL / R / UI / REACT / JS / HTML / CSS / GIT 
 
 ## Things I have expertise on so far..
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,linux,html,javascript,mysql,git,r,ui,excel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,linux,html,javascript,mysql,git,r,eclipse&perline=10)](https://skillicons.dev)
