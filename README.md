@@ -2,7 +2,10 @@
 <!--![I am GitHub Readme Generator's creator](https://github.com/tkishika/tkishika/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.gif?raw=true)-->
 ![I am GitHub Readme Generator's creator](https://github.com/tkishika/tkishika/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(2).gif?raw=true)
 
-
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
 
 # Data Science | Machine Learning | Frontend Dev
