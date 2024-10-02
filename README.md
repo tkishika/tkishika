@@ -63,14 +63,11 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 
 <br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkishika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true" height="200" width="2000" alt="stats graph"  />
-</div>
 
 ## GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkishika&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tkishika&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true" height="250" width="1000" alt="stats graph"  />
 </div>
 
 <br><br>
