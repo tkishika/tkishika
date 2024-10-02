@@ -2,7 +2,7 @@
 
 # Data Science | Machine Learning | Frontend Dev
 ## Tashnim Khan Ishika
-### Southeast Missouri State University
+#### Southeast Missouri State University
 
 
 Senior CS major (& DS minor) with a thing for turning data into stories and machines into smart problem-solvers, ready to explore the coolest side of tech with AI and data science
@@ -18,4 +18,5 @@ Skills: PYTHON / C++ / C# / JAVA / SQL / R / UI / REACT / JS / HTML / CSS / GIT 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tkishika&show_icons=true)  
 
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,linux,html,javascript,css,sql,mysql,tableau,git,r,ui,excel&perline=10)](https://skillicons.dev)
 https://skillicons.dev/icons?i=java,cpp,c,c#,python,linux,html,javascript,css,SQL,MySQL,tableau,git,r,UI,excel&perline=10
