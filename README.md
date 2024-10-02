@@ -12,7 +12,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 
 <img align="right" alt= "Coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
-- 🔭 I’m currently working on<img alt= "logo" width="150" src="https://preview.redd.it/hsxvoicyhdsd1.png?auto=webp&s=5ed25e5bbcbff105b27ba8bac833053681ee2c9e">,
+- 🔭 I’m currently working on<img alt="logo" width="15%" src="https://preview.redd.it/hsxvoicyhdsd1.png?auto=webp&s=5ed25e5bbcbff105b27ba8bac833053681ee2c9e" style="max-width: 20%; height: auto;"/>,
           an innovative free auto-grader tool for computer science assignments that provides both automated and manual feedback, enabling instructors to deliver detailed feedback efficiently while students access a built-in sandbox. 
 - 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /><img width="10" />, <img src="https://preview.redd.it/scikit-learn-v0-o9n5rhe6fbsd1.png?auto=webp&s=9e06b002169110bacf74b8ca4e52fef9ed1e693f" height="25" alt="javascript logo"  />
   <img width="10" />
