@@ -1,5 +1,5 @@
 <!--![Aspiring Data Scientist](https://media.licdn.com/dms/image/v2/D5616AQEjTknaZ3zK0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727837130436?e=1733356800&v=beta&t=c-mHXE3pMX93-Rv9D2H4EH7ITCfjwmcENngAefVpbng)-->
-![I am GitHub Readme Generator's creator](https://github.com/tkishika/tkishika/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.gif?raw=true)
+<!--![I am GitHub Readme Generator's creator](https://github.com/tkishika/tkishika/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.gif?raw=true)-->
 ![I am GitHub Readme Generator's creator](https://github.com/tkishika/tkishika/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(2).gif?raw=true)
 
 
