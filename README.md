@@ -1,5 +1,10 @@
 ![Aspiring Data Scientist](https://media.licdn.com/dms/image/v2/D5616AQEjTknaZ3zK0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727837130436?e=1733356800&v=beta&t=c-mHXE3pMX93-Rv9D2H4EH7ITCfjwmcENngAefVpbng)
 
+# Data Science | Machine Learning | Frontend Dev
+## Tashnim Khan Ishika
+### Southeast Missouri State University
+
+
 Senior CS major (& DS minor) with a thing for turning data into stories and machines into smart problem-solvers, ready to explore the coolest side of tech with AI and data science
 
 Skills: PYTHON / C++ / C# / JAVA / SQL / R / UI / REACT / JS / HTML / CSS / GIT / LINUX
