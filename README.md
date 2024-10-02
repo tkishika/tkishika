@@ -18,5 +18,6 @@ Skills: PYTHON / C++ / C# / JAVA / SQL / R / UI / REACT / JS / HTML / CSS / GIT 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tkishika&show_icons=true)  
 
+## Things I have expertise on so far..
+
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,linux,html,javascript,mysql,git,r,ui,excel&perline=10)](https://skillicons.dev)
-https://skillicons.dev/icons?i=java,cpp,c,c#,python,linux,html,javascript,css,SQL,MySQL,tableau,git,r,UI,excel&perline=10
