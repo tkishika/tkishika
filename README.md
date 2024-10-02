@@ -1,5 +1,3 @@
-### Hi there 👋, I'm Ishika
-#### Aspiring Data Scientist
 ![Aspiring Data Scientist](https://media.licdn.com/dms/image/v2/D5616AQEjTknaZ3zK0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727837130436?e=1733356800&v=beta&t=c-mHXE3pMX93-Rv9D2H4EH7ITCfjwmcENngAefVpbng)
 
 Senior CS major (& DS minor) with a thing for turning data into stories and machines into smart problem-solvers, ready to explore the coolest side of tech with AI and data science
