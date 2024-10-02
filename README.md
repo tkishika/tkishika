@@ -10,7 +10,7 @@
 
 Senior CS major (& DS minor) with a thing for turning data into stories and machines into smart problem-solvers, ready to explore the coolest side of tech with AI and data science.
 
-<img align="right" alt= "Coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+<img align="right" alt= "Coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
 - 🔭 I’m currently working on <img alt= "logo" width="90" src="https://preview.redd.it/bufyluhg6asd1.jpeg?auto=webp&s=3ecc1349c08964c438935ca2cb427ae208be045f">,
           an innovative free auto-grader tool for computer science assignments that provides both automated and manual feedback, enabling instructors to deliver detailed feedback efficiently while students access a built-in sandbox. 
