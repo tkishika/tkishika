@@ -22,7 +22,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 <br><br><br><br><br><br>
 
 ## Things I have expertise on so far:
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -65,7 +65,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 
 
 ## GitHub Stats:
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tkishika&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true" height="250" width="1000" alt="stats graph"  />
 </div>
