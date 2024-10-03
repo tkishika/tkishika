@@ -18,7 +18,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
   <img width="10" />
 - 😄 Pronouns: She/Her
 - <p><a href="C:\Users\swss211b\Downloads\TashnimKhanIshika Resume.pdf" target="_blank"> <img src="https://github.com/tkishika/tkishika/blob/main/resume%20logo.png?raw=true"alt="resumelogo"style="width:100px;height:50px;"></a></p>
-
+<a href="C:\Users\swss211b\Downloads\TashnimKhanIshika Resume.pdf"><img src="https://github.com/tkishika/tkishika/blob/main/resume%20logo.png?raw=true" alt="HTML tutorial" style="width:42px;height:42px;"></a>
   
 <br><br><br><br><br>
 
