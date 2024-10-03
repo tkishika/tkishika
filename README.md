@@ -18,7 +18,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 - 😄 Pronouns: She/Her
 
   
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ## Things I have expertise on so far:
 <br>
