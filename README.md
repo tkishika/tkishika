@@ -14,8 +14,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 <img align="right" alt= "Coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"> <br>
 - 🔭 I’m currently working on<img alt="logo" width="15%" src="https://github.com/tkishika/tkishika/blob/main/logo.png?raw=true" style="max-width: 20%; height: auto;"/>, 
           an innovative free auto-grader tool for computer science assignments that provides both automated and manual feedback, enabling instructors to deliver detailed feedback efficiently while students access a built-in sandbox. 
-- 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /><img width="10" />, <img src="https://preview.redd.it/scikit-learn-v0-o9n5rhe6fbsd1.png?auto=webp&s=9e06b002169110bacf74b8ca4e52fef9ed1e693f" height="25" alt="slearn logo"  />
-  <img width="10" />
+- 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /><img width="10" />, <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SciKitLearn-Light.svg" height="25"  alt="slearn logo"  /><img width="40" />
 - 😄 Pronouns: She/Her
 - <p><a href="TashnimKhanIshika Resume.pdf" target="_blank"><img src="https://github.com/tkishika/tkishika/blob/main/resume%20logo.png?raw=true" alt="myResume" style="width:100px;height:60px;"></a></p>
 <br><br><br><br><br>
@@ -39,7 +38,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -72,7 +71,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 <br><br>
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tkishika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tkishika/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@ish.iika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:tasnimkishika@gmail.com)  
+[<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg' alt='github' height='40'>](https://github.com/tkishika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tkishika/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@ish.iika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:tasnimkishika@gmail.com)  
 
 
 ###
