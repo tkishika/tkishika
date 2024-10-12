@@ -71,7 +71,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 <br><br>
 
 ## Connect with me:
-[<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg' alt='github' height='40'>](https://github.com/tkishika)  [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tkishika/)  [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg' height='40'>](https://discord.com/channels/@ish.iika)  [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg' alt='gmail' height='40'>](mailto:tasnimkishika@gmail.com)  
+[<href target="_blank"><<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg' alt='github' height='40'>](https://github.com/tkishika)  [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tkishika/)  [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg' height='40'>](https://discord.com/channels/@ish.iika)  [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg' alt='gmail' height='40'>](mailto:tasnimkishika@gmail.com)  
 
 
 ###
