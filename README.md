@@ -9,7 +9,7 @@
 #### Southeast Missouri State University
 
 
-Senior CS major (& DS minor) with a thing for turning data into stories and machines into smart problem-solvers, ready to explore the coolest side of tech with AI and data science.
+Senior CS major (& DS minor) with a thing for turning data into stories and machines into smart problem-solvers, ready to explore the coolest side of tech with AI and Data Science.
 
 <img align="right" alt= "Coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"> <br>
 - 🔭 I’m currently working on<img alt="logo" width="15%" src="https://github.com/tkishika/tkishika/blob/main/logo.png?raw=true" style="max-width: 20%; height: auto;"/>, 
