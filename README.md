@@ -17,7 +17,8 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 - 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /><img width="10" />, <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SciKitLearn-Light.svg" height="25"  alt="slearn logo"  /><img width="40" />
 - 😄 Pronouns: She/Her
 - <p><a href="TashnimKhanIshika Resume.pdf" target="_blank"><img src="https://github.com/tkishika/tkishika/blob/main/resume%20logo.png?raw=true" alt="myResume" style="width:100px;height:60px;"></a></p>
-<br><br><br><br><br>
+<br><br><be>
+<!--<br><br> -->
 
 ## Things I have expertise on so far:
 <br>
