@@ -14,7 +14,7 @@ Senior CS major (& DS minor) with a thing for turning data into stories and mach
 <img align="right" alt= "Coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"> <br>
 - 🔭 I’m currently working on<img alt="logo" width="15%" src="https://github.com/tkishika/tkishika/blob/main/logo.png?raw=true" style="max-width: 20%; height: auto;"/>, 
           an innovative free auto-grader tool for computer science assignments that provides both automated and manual feedback, enabling instructors to deliver detailed feedback efficiently while students access a built-in sandbox. 
-- 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /><img width="10" />, <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SciKitLearn-Light.svg" height="25"  alt="slearn logo"  /><img width="40" />
+- 🌱 I’m currently learning: <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /><img width="10" />, --> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SciKitLearn-Light.svg" height="25"  alt="slearn logo"  /><img width="40" />
 - 😄 Pronouns: She/Her
 - <p><a href="TashnimKhanIshika Resume.pdf" target="_blank"><img src="https://github.com/tkishika/tkishika/blob/main/resume%20logo.png?raw=true" alt="myResume" style="width:100px;height:60px;"></a></p>
 <br><br><be>
