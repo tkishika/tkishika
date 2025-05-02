@@ -4,7 +4,7 @@
 
 # Data Science | Machine Learning | Frontend Dev
 <!--## Tashnim Khan Ishika-->
-#### Southeast Missouri State University
+## Southeast Missouri State University
 
 
 CS Senior with a thing for turning data into stories and machines into smart problem-solvers, ready to explore the coolest side of tech with AI and Data Science.
