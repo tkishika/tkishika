@@ -3,7 +3,7 @@
 <!--![I am GitHub Readme Generator's creator](https://github.com/tkishika/tkishika/blob/main/Banner%20(2).gif?raw=true)-->
 
 # Data Science | Machine Learning | Frontend Dev
-## Tashnim Khan Ishika
+<!--## Tashnim Khan Ishika-->
 #### Southeast Missouri State University
 
 
