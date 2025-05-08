@@ -10,9 +10,9 @@
 CS Senior with a thing for turning data into stories and machines into smart problem-solvers, ready to explore the coolest side of tech with AI and Data Science.
 
 <img align="right" alt= "Coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"> <br>
-- 🔭 I’m currently working on **Negotiation AI**, an advanced tool designed to streamline and enhance negotiation processes. It offers real-time, AI-driven insights and suggestions to both parties, ensuring smoother, more efficient negotiations. Users benefit from automated analysis, while maintaining the ability to make manual adjustments, fostering better decision-making and outcomes. 
+- 🔭 I’m currently working on **Inscript AI**, a powerful content generation platform built to simplify and elevate the creative process. It delivers real-time, AI-driven outputs tailored to specific formats like social media posts, helping users craft engaging, platform-ready content with ease. With structured templates, dynamic inputs, and editable results, users retain full creative control while benefiting from intelligent automation—making content creation faster, smarter, and more consistent. And a few side projects. 
 - 🌱 I’m currently learning: <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  /><img width="10" />, --> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SciKitLearn-Light.svg" height="25"  alt="slearn logo"  /><img width="40" />
-- 😄 Pronouns: She/Her
+<!--- 😄 Pronouns: She/Her-->
 <!--<- <p><a href="TashnimKhanIshika Resume.pdf" target="_blank"><img src="https://github.com/tkishika/tkishika/blob/main/resume%20logo.png?raw=true" alt="myResume" style="width:100px;height:60px;"></a></p>-->
 <br><br><br>
 
