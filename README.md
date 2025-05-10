@@ -2,7 +2,7 @@
 <!--![I am GitHub Readme Generator's creator](https://github.com/tkishika/tkishika/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.gif?raw=true)-->
 <!--![I am GitHub Readme Generator's creator](https://github.com/tkishika/tkishika/blob/main/Banner%20(2).gif?raw=true)-->
 
-# Data Science | Machine Learning | Frontend Dev
+# Data Science | Machine Learning | Frontend Dev | GenAI
 <!--## Tashnim Khan Ishika-->
 ## Southeast Missouri State University
 
